@@ -1,0 +1,8 @@
+---
+layout: post
+title: "1.6 Exercise"
+date: 2023-09-29 17:32:32 -0500
+categories: jekyll update
+---
+
+This is a Jekyll post.
